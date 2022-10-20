@@ -1,0 +1,16 @@
+{
+"name": "lucia168king",
+"theme": "lucia168 king",
+"version": "9.2.7",
+"description": "lucia168 king สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"lucia168 king",
+"lucia168 king เครดิตฟรี",
+"lucia168 king ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/lucia168king",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
